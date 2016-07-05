@@ -77,6 +77,7 @@ static const void *objectkey = "testStringKey";
     // Do any additional setup after loading the view, typically from a nib.
     
     /************ runtime很强大，知道到这点就够了！！！*************/
+    /************** 知道得太多对你没什么好处！！！！*************/
     
     //头文件 #import <objc/runtime.h>
     
@@ -145,10 +146,7 @@ static const void *objectkey = "testStringKey";
     
     //获取方法列表
     Method *methodList = class_copyMethodList([Dog class], &count);
-    for (unsigned int i; i<count; i++) {
-        Method method = methodList[i];
-        NSLog(@"method---->%@", NSStringFromSelector(method_getName(method)));
-    }
+     
     
     
 }
