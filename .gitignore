@@ -29,3 +29,5 @@ Exclude temp nibs and swap files
 排除二进制文件
 *.nib
 
+
+
