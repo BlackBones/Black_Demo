@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "01208BBB916993D9E5798435A0E55C6A395490DC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DFB3AE478ED78C5E3A0CACD2B0CBFC7CE79D8955" : 9223372036854775807,
+    "01208BBB916993D9E5798435A0E55C6A395490DC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "73082277-2C8C-4A3B-9C43-2DEAC63E7A49",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DFB3AE478ED78C5E3A0CACD2B0CBFC7CE79D8955" : "..",
+    "01208BBB916993D9E5798435A0E55C6A395490DC" : "QRCodeGenerator\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CIFilter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CIFilter\/CIFilter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BlackBones\/QRCodeGenerator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "01208BBB916993D9E5798435A0E55C6A395490DC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BlackBones\/Black_Demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DFB3AE478ED78C5E3A0CACD2B0CBFC7CE79D8955"
+    }
+  ]
+}
