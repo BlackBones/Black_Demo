@@ -15,6 +15,7 @@
 
 @property (weak, nonatomic) IBOutlet UILabel *testLabel;
 
+@property (weak, nonatomic) IBOutlet UIButton *testBtn;
 
 @end
 
@@ -24,10 +25,14 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
+//    _testView.layer.borderColor = [UIColor redColor].CGColor;
+//    _testView.layer.borderWidth = 1.0;
     
     [_testView roundingCorners:UIRectCornerTopLeft | UIRectCornerTopRight Radius:20.0f];
     
     [_testLabel roundingCorners:UIRectCornerTopLeft | UIRectCornerTopRight Radius:20.0f];
+    
+    [_testBtn roundingCorners:UIRectCornerTopLeft | UIRectCornerTopRight Radius:20.0];
     
 }
 
