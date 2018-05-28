@@ -72,9 +72,12 @@ static const void *objectkey = "testStringKey";
 
 @implementation ViewController
 
+
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
     
     /************ runtime很强大，知道到这点就够了！！！*************/
     /************** 知道得太多对你没什么好处！！！！*************/

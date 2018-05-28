@@ -212,6 +212,7 @@
 				TargetAttributes = {
 					3AB9FA681CF68D4400B049B0 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 53F4E9DSSU;
 					};
 					3AB9FA811CF68D4500B049B0 = {
 						CreatedOnToolsVersion = 7.3;
@@ -421,6 +422,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 53F4E9DSSU;
 				INFOPLIST_FILE = CountdownButton/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = BlackBones.CountdownButton;
@@ -432,6 +434,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 53F4E9DSSU;
 				INFOPLIST_FILE = CountdownButton/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = BlackBones.CountdownButton;
@@ -504,6 +507,7 @@
 				3AB9FA981CF68D4500B049B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3AB9FA991CF68D4500B049B0 /* Build configuration list for PBXNativeTarget "CountdownButtonTests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +516,7 @@
 				3AB9FA9B1CF68D4500B049B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3AB9FA9C1CF68D4500B049B0 /* Build configuration list for PBXNativeTarget "CountdownButtonUITests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +525,7 @@
 				3AB9FA9E1CF68D4500B049B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
